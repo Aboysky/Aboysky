@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Aboysky
-- 👀 I’m interested in Machine learning & Architect of Java
-- 🌱 I’m currently learning SpringCloud & Kafka & OS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  www.aboysky.com 
-
-<!---
-Aboysky/Aboysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aboysky&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
